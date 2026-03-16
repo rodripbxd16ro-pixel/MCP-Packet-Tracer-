@@ -1,5 +1,5 @@
 # MCP-Packet-Tracer-
-MCP para Packet Tracer para conectar con Claude# 🌐 Guía Completa: Conexión Packet Tracer + Claude
+MCP para Packet Tracer para conectar con Claude, en base al proyecto de Mats2208 # 🌐 Guía Completa: Conexión Packet Tracer + Claude
 
 ## 📋 Tabla de Contenidos
 1. [Requisitos Previos](#requisitos-previos)
@@ -30,8 +30,8 @@ Antes de comenzar, asegúrate de tener instalado en tu PC:
 Abre tu terminal (PowerShell en Windows, Terminal en macOS/Linux) y ejecuta:
 
 ```bash
-git clone []
-cd <LA DIRECCIÓN DONDE SE GUARDÓ EL REPO>
+git clone https://github.com/Mats2208/MCP-Packet-Tracer.git
+cd <LA DIRECCIÓN DONDE SE GUARDÓ EL REPOSITORIO>
 ```
 
 Esto descargará todo el código necesario en tu PC.
